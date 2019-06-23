@@ -1,0 +1,11 @@
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\bin\Debug\netcoreapp2.1\MergeString.deps.json
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\bin\Debug\netcoreapp2.1\MergeString.runtimeconfig.json
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\bin\Debug\netcoreapp2.1\MergeString.runtimeconfig.dev.json
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\bin\Debug\netcoreapp2.1\MergeString.dll
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\bin\Debug\netcoreapp2.1\MergeString.pdb
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.csprojAssemblyReference.cache
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.csproj.CoreCompileInputs.cache
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.AssemblyInfoInputs.cache
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.AssemblyInfo.cs
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.dll
+C:\Users\tatiana\Documents\PruebaTecnica\MergeString\MergeString\obj\Debug\netcoreapp2.1\MergeString.pdb
